@@ -1,0 +1,2 @@
+This documentation describes how to use the Pavel robotic toothbrush.
+Note: This toothbrush is not safe for children or pets.

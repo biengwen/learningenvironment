@@ -1,4 +1,4 @@
-This documentation describes how to use the Pavel robotic toothbrush.
+This documentation describes how to use the Karel robotic toothbrush.
 
 Note: This toothbrush is not safe for children, pets, and wildlife.
 

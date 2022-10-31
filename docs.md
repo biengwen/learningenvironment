@@ -8,3 +8,5 @@ Complete the following steps:
 
 This is for git-branch
 
+123456 
+ABCDEF

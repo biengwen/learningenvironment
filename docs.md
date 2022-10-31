@@ -6,4 +6,4 @@ Complete the following steps:
 2. Lorem ipsum two.
 3. Lorem ipsum three.
 
-Note: This toothbrush is not safe for children, pets, and wildlife.
+New version.

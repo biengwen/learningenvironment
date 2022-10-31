@@ -12,3 +12,6 @@ This is for git-branch
 
 123456 
 ABCDEF
+
+This is for branch named "testing1". 
+0987654321
